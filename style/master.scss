@@ -1,0 +1,10 @@
+// import to have access to them
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+// our custom themeing of bootstrap
+@import "theme.scss";
+// bootstrap
+@import "bootstrap/bootstrap.scss";
+// style overriding bootstrap
+@import "style.scss";
